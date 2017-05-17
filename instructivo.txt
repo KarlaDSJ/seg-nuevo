@@ -1,0 +1,5 @@
+la carpeta de archivos debe de estar en htdocs
+antes de abrir el proyecto es necesario crear una base de datos llamada usuarios 
+posteriormente ejecutar dentro de esa base de datos el archivo usu.sql
+y ahora si abrir en localhost/seguridad/registro.php
+lo hice en windows por si hay problemas con linux

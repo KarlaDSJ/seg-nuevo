@@ -1,0 +1,18 @@
+body
+{
+	background-image:url(../resources/fondo.gif);
+	color:white;
+	text-align:center;
+}
+div
+{
+	background-color:#DCEEF3;
+	position:absolute;
+	left:22%;
+	top:20%;
+	width:50%;
+	padding:15px;
+	margin:15px;
+	color:black;
+	text-align:left;
+}
